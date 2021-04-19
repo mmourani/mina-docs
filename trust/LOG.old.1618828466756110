@@ -1,0 +1,84 @@
+2021/04/19-10:29:48.903898 7f82053ff700 RocksDB version: 5.17.2
+2021/04/19-10:29:48.903955 7f82053ff700 Git sha rocksdb_build_git_sha:f438b98e552010613cff8684a7d84191ed785148
+2021/04/19-10:29:48.903957 7f82053ff700 Compile date Feb 24 2021
+2021/04/19-10:29:48.903959 7f82053ff700 DB SUMMARY
+2021/04/19-10:29:48.903982 7f82053ff700 CURRENT file:  CURRENT
+2021/04/19-10:29:48.903984 7f82053ff700 IDENTITY file:  IDENTITY
+2021/04/19-10:29:48.903987 7f82053ff700 MANIFEST file:  MANIFEST-000001 size: 13 Bytes
+2021/04/19-10:29:48.903989 7f82053ff700 SST files in /home/forge/.mina-config/trust dir, Total Num: 0, files: 
+2021/04/19-10:29:48.903991 7f82053ff700 Write Ahead Log file in /home/forge/.mina-config/trust: 000003.log size: 68438 ; 
+2021/04/19-10:29:48.903993 7f82053ff700                         Options.error_if_exists: 0
+2021/04/19-10:29:48.903995 7f82053ff700                       Options.create_if_missing: 1
+2021/04/19-10:29:48.903996 7f82053ff700                         Options.paranoid_checks: 1
+2021/04/19-10:29:48.903997 7f82053ff700                                     Options.env: 0x564053f999e0
+2021/04/19-10:29:48.903998 7f82053ff700                                Options.info_log: 0x7f8201358060
+2021/04/19-10:29:48.903999 7f82053ff700                Options.max_file_opening_threads: 16
+2021/04/19-10:29:48.904001 7f82053ff700                              Options.statistics: (nil)
+2021/04/19-10:29:48.904002 7f82053ff700                               Options.use_fsync: 0
+2021/04/19-10:29:48.904003 7f82053ff700                       Options.max_log_file_size: 0
+2021/04/19-10:29:48.904004 7f82053ff700                  Options.max_manifest_file_size: 1073741824
+2021/04/19-10:29:48.904005 7f82053ff700                   Options.log_file_time_to_roll: 0
+2021/04/19-10:29:48.904006 7f82053ff700                       Options.keep_log_file_num: 1000
+2021/04/19-10:29:48.904007 7f82053ff700                    Options.recycle_log_file_num: 0
+2021/04/19-10:29:48.904008 7f82053ff700                         Options.allow_fallocate: 1
+2021/04/19-10:29:48.904010 7f82053ff700                        Options.allow_mmap_reads: 0
+2021/04/19-10:29:48.904011 7f82053ff700                       Options.allow_mmap_writes: 0
+2021/04/19-10:29:48.904012 7f82053ff700                        Options.use_direct_reads: 0
+2021/04/19-10:29:48.904013 7f82053ff700                        Options.use_direct_io_for_flush_and_compaction: 0
+2021/04/19-10:29:48.904014 7f82053ff700          Options.create_missing_column_families: 0
+2021/04/19-10:29:48.904015 7f82053ff700                              Options.db_log_dir: 
+2021/04/19-10:29:48.904016 7f82053ff700                                 Options.wal_dir: /home/forge/.mina-config/trust
+2021/04/19-10:29:48.904017 7f82053ff700                Options.table_cache_numshardbits: 6
+2021/04/19-10:29:48.904018 7f82053ff700                      Options.max_subcompactions: 1
+2021/04/19-10:29:48.904019 7f82053ff700                  Options.max_background_flushes: -1
+2021/04/19-10:29:48.904020 7f82053ff700                         Options.WAL_ttl_seconds: 0
+2021/04/19-10:29:48.904022 7f82053ff700                       Options.WAL_size_limit_MB: 0
+2021/04/19-10:29:48.904023 7f82053ff700             Options.manifest_preallocation_size: 4194304
+2021/04/19-10:29:48.904024 7f82053ff700                     Options.is_fd_close_on_exec: 1
+2021/04/19-10:29:48.904025 7f82053ff700                   Options.advise_random_on_open: 1
+2021/04/19-10:29:48.904026 7f82053ff700                    Options.db_write_buffer_size: 0
+2021/04/19-10:29:48.904027 7f82053ff700                    Options.write_buffer_manager: 0x7f8203c0e160
+2021/04/19-10:29:48.904028 7f82053ff700         Options.access_hint_on_compaction_start: 1
+2021/04/19-10:29:48.904029 7f82053ff700  Options.new_table_reader_for_compaction_inputs: 0
+2021/04/19-10:29:48.904030 7f82053ff700           Options.random_access_max_buffer_size: 1048576
+2021/04/19-10:29:48.904031 7f82053ff700                      Options.use_adaptive_mutex: 0
+2021/04/19-10:29:48.904032 7f82053ff700                            Options.rate_limiter: (nil)
+2021/04/19-10:29:48.904035 7f82053ff700     Options.sst_file_manager.rate_bytes_per_sec: 0
+2021/04/19-10:29:48.904041 7f82053ff700                       Options.wal_recovery_mode: 2
+2021/04/19-10:29:48.904042 7f82053ff700                  Options.enable_thread_tracking: 0
+2021/04/19-10:29:48.904043 7f82053ff700                  Options.enable_pipelined_write: 0
+2021/04/19-10:29:48.904044 7f82053ff700         Options.allow_concurrent_memtable_write: 1
+2021/04/19-10:29:48.904045 7f82053ff700      Options.enable_write_thread_adaptive_yield: 1
+2021/04/19-10:29:48.904047 7f82053ff700             Options.write_thread_max_yield_usec: 100
+2021/04/19-10:29:48.904048 7f82053ff700            Options.write_thread_slow_yield_usec: 3
+2021/04/19-10:29:48.904049 7f82053ff700                               Options.row_cache: None
+2021/04/19-10:29:48.904050 7f82053ff700                              Options.wal_filter: None
+2021/04/19-10:29:48.904051 7f82053ff700             Options.avoid_flush_during_recovery: 0
+2021/04/19-10:29:48.904052 7f82053ff700             Options.allow_ingest_behind: 0
+2021/04/19-10:29:48.904053 7f82053ff700             Options.preserve_deletes: 0
+2021/04/19-10:29:48.904055 7f82053ff700             Options.two_write_queues: 0
+2021/04/19-10:29:48.904055 7f82053ff700             Options.manual_wal_flush: 0
+2021/04/19-10:29:48.904056 7f82053ff700             Options.max_background_jobs: 2
+2021/04/19-10:29:48.904058 7f82053ff700             Options.max_background_compactions: -1
+2021/04/19-10:29:48.904059 7f82053ff700             Options.avoid_flush_during_shutdown: 0
+2021/04/19-10:29:48.904060 7f82053ff700           Options.writable_file_max_buffer_size: 1048576
+2021/04/19-10:29:48.904061 7f82053ff700             Options.delayed_write_rate : 16777216
+2021/04/19-10:29:48.904062 7f82053ff700             Options.max_total_wal_size: 0
+2021/04/19-10:29:48.904063 7f82053ff700             Options.delete_obsolete_files_period_micros: 21600000000
+2021/04/19-10:29:48.904064 7f82053ff700                   Options.stats_dump_period_sec: 600
+2021/04/19-10:29:48.904065 7f82053ff700                          Options.max_open_files: -1
+2021/04/19-10:29:48.904066 7f82053ff700                          Options.bytes_per_sync: 0
+2021/04/19-10:29:48.904067 7f82053ff700                      Options.wal_bytes_per_sync: 0
+2021/04/19-10:29:48.904068 7f82053ff700       Options.compaction_readahead_size: 0
+2021/04/19-10:29:48.904069 7f82053ff700 Compression algorithms supported:
+2021/04/19-10:29:48.904071 7f82053ff700 	kZSTDNotFinalCompression supported: 0
+2021/04/19-10:29:48.904073 7f82053ff700 	kZSTD supported: 0
+2021/04/19-10:29:48.904074 7f82053ff700 	kXpressCompression supported: 0
+2021/04/19-10:29:48.904076 7f82053ff700 	kLZ4HCCompression supported: 0
+2021/04/19-10:29:48.904077 7f82053ff700 	kLZ4Compression supported: 0
+2021/04/19-10:29:48.904078 7f82053ff700 	kBZip2Compression supported: 1
+2021/04/19-10:29:48.904078 7f82053ff700 	kZlibCompression supported: 1
+2021/04/19-10:29:48.904080 7f82053ff700 	kSnappyCompression supported: 0
+2021/04/19-10:29:48.904081 7f82053ff700 Fast CRC32 supported: Not supported on x86
+2021/04/19-10:29:48.904115 7f82053ff700 [db/db_impl.cc:365] Shutdown: canceling all background work
+2021/04/19-10:29:48.904130 7f82053ff700 [db/db_impl.cc:521] Shutdown complete

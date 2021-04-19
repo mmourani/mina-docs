@@ -1,0 +1,11 @@
+digraph G {
+  rankdir=LR;
+  node [shape=record, ];
+  "0b430a2d-1 " [label="Attached|hash:jx7buQVWFL|uuid:0b430a2d-1|total_currency:805385692840039233|num_accounts:1676",
+                 ];
+  "435000ce-4 " [label="Attached|hash:jxWQ35Mcky|uuid:435000ce-4|total_currency:10016100000000000|num_accounts:18",
+                 ];
+  
+  
+  
+  }
